@@ -10,7 +10,7 @@ Antes de começar, informamos que este bot **NÃO** envia atualizações de stat
 
 Não utilize esta aplicação para realizar fraudes ou desviar seu propósito original. Não nos responsabilizamos por qualquer uso indevido do nosso repositório para aplicar golpes. Aconselha-se discernimento.
 
-#### [Read the docs →](https://discord.js.org/#/)
+#### [Leia a documentação →](https://discord.js.org/#/)
 
 ## Configurações
 Para configurar sua aplicação, siga estas etapas: Localize o arquivo `.env.example` no repositório do seu projeto. Renomeie o arquivo de `.env.example` para `.env`. No arquivo `.env`, você encontrará uma linha semelhante a esta:
